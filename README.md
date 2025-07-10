@@ -1,6 +1,7 @@
 
-Hallo, I'm Antariksh Singh!  I can talk to computers only in Python, C and C++. Learning how the web works, so I can make it look bad on purpose<br><br>
+Hallo, I'm **Antariksh Singh**!  I can talk to computers only in **Python**, **C** and **C++**. Learning how the web works, so I can make it look bad on purpose hehe.<br><br>
 
+## Connect:
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-%237F52FF.svg?logo=Portfolio&logoColor=white)]()
 -->
@@ -10,7 +11,7 @@ Hallo, I'm Antariksh Singh!  I can talk to computers only in Python, C and C++. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antariksh-singh-37b496315/)
 [![email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antarikshsingh212@gmail.com) 
 
-# 💻 Tech Stack:
+## Tech Stack:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +24,6 @@ Hallo, I'm Antariksh Singh!  I can talk to computers only in Python, C and C++. 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhantariksh&theme=dark&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhantariksh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
