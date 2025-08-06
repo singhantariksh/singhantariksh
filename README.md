@@ -3,7 +3,8 @@ Hallo, I'm **Antariksh Singh**!  I can talk to computers only in **Python**, **C
 
 ## Connect:
 <!--
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237F52FF.svg?logo=Portfolio&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237F52FF.svg?logo=Portfolio&logoColor=white)](https://antarik.sh)
+![](https://github-profile-trophy.vercel.app/?username=singhantariksh&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)</br>
 -->
 [
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/singhantariksh/)
@@ -25,5 +26,5 @@ Hallo, I'm **Antariksh Singh**!  I can talk to computers only in **Python**, **C
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ## GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=singhantariksh&theme=dark&hide_border=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhantariksh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhantariksh&theme=dark&include_all_commits=true&count_private=true&layout=donut)</br>
+![](https://github-readme-stats.vercel.app/api?username=singhantariksh&show_icons=true&theme=dark&rank_icon=percentile&hide_title=true&include_all_commits=true&count_private=true&ring_color=458588)</br>
