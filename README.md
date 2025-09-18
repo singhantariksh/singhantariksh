@@ -26,5 +26,5 @@ Hallo, I'm **Antariksh Singh**!  I can talk to computers only in **Python**, **C
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhantariksh&theme=dark&include_all_commits=true&count_private=true&layout=donut)</br>
-![](https://github-readme-stats.vercel.app/api?username=singhantariksh&show_icons=true&theme=dark&rank_icon=percentile&hide_title=true&include_all_commits=true&count_private=true&ring_color=458588)</br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhantariksh&theme=dark&show_icons=true&hide_border=true&layout=donut)</br>
+![Stats](https://github-readme-stats.vercel.app/api?username=singhantariksh&theme=dark&show_icons=true&hide_border=true&count_private=true&ring_color=458588)</br>
