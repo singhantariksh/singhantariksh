@@ -1,5 +1,5 @@
 
-Hallo, I'm **Antariksh Singh**!  I can talk to computers only in ****. Learning how the web works, so I can make it look bad on purpose hehe.<br><br>
+Hallo, I'm **Antariksh Singh**!  I write code and then review my life choices. Well, I also maintain multiple to-do lists, which I'll definitely finish one day, 100%. I think.<br><br>
 
 ## Connect:
 <!--
