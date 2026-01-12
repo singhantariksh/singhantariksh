@@ -54,7 +54,8 @@ qt,wasm
 ### Editors & Tools
 ![Tools](https://skillicons.dev/icons?i=neovim,vim,vscode,figma)
 
+<!--
 ## GitHub Stats:
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=singhantariksh&theme=dark&show_icons=true&hide_border=true&layout=donut)</br>
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=singhantariksh&theme=dark&show_icons=true&hide_border=true&count_private=true&ring_color=007abc)</br>
-
+-->
